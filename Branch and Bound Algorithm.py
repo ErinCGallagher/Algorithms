@@ -1,4 +1,4 @@
-#Erin Gallagher (10054506)
+#Erin Gallagher
 
 from random import randrange
 import copy
